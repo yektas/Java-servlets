@@ -1,0 +1,57 @@
+body{
+	background-color: #2c42e2c9 !important;
+}
+
+.card-body {
+ 	background: #f2d233d9;
+}
+
+h3 {
+	color: #586ae8;
+}
+
+label {
+	color: #586ae8;
+}
+
+.list{
+	background-color: #f2d233d9;
+}
+
+tr.header {
+	background-color: #fdde41 !important;
+}
+
+table > tbody > tr > th {
+	background: white;
+}
+table > tbody > tr > td {
+	background: white;
+}
+
+tbody.tableBody > tr {
+	background: white;
+}
+
+.customBtn{
+	font-weight: 500;
+    color: #ffe484;
+    border-color: #ffe484;
+}
+.customBtn:hover {
+	color: #2c42e2c9;
+    background-color: #ffe484;
+    border-color: #ffe484;
+}
+
+.purpleBtn{
+	color: #586ae8;
+	background-color: #f2d233d9;
+	border-color: #586ae8;
+}
+
+.purpleBtn:hover{
+	color: #f2d233d9;
+	background-color: #586ae8;
+	border-color: #586ae8;
+}
